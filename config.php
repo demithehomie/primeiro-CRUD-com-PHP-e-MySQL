@@ -1,9 +1,14 @@
 <?php
 
+    $conexao = new mysqli('localhost:3306','root','','cadastro_crud');
 
-define('HOST', 'localhost');
-define('USER', 'root');
-define('PASS', '');
-define('BASE', 'cadastro_crud');
+    if($conexao->connect_errno)
+    {
+        echo "Errou em alguma parada";
+    }
+    else
+    {
+        echo " ";
+    }
 
-$conn = new MySQLi(HOST,USER,PASS,BASE);
+?>

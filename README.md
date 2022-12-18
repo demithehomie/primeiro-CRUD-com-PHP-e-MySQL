@@ -6,4 +6,6 @@
 
 ## 3o passo - Configurar o Bootstrap, limpando o código quando necessário
 
-## 4o passo - 
+## 4o passo - Recomendo que na criação do CRUD, a função de criar / salvar usuários seja a primeira a ser considerada
+
+## 5o passo - 
