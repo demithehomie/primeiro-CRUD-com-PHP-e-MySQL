@@ -8,4 +8,6 @@
 
 ## 4o passo - Recomendo que na criação do CRUD, a função de criar / salvar usuários seja a primeira a ser considerada
 
-## 5o passo - 
+## 5o passo - Em seguida é só seguir o 
+
+### Tutorial completo em breve no https://www.youtube.com/@escolatres
